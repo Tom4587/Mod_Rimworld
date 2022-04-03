@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <KCSG.SymbolAutoCreation>
+    <defName>VFEV_AutoCreation</defName>
+    <autoSymbolsCreation>true</autoSymbolsCreation>
+  </KCSG.SymbolAutoCreation>
+
+  <KCSG.SymbolDef>
+    <defName>VFEV_CryptosleepCasket_South_SpecialViking</defName>
+    <thing>CryptosleepCasket</thing>
+    <rotation>South</rotation>
+    <containPawnKindAnyOf>
+      <li>VFEV_VikingHero</li>
+    </containPawnKindAnyOf>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEV_CryptosleepCasket_West_SpecialViking</defName>
+    <thing>CryptosleepCasket</thing>
+    <rotation>West</rotation>
+    <containPawnKindAnyOf>
+      <li>VFEV_VikingHero</li>
+    </containPawnKindAnyOf>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEV_CryptosleepCasket_East_SpecialViking</defName>
+    <thing>CryptosleepCasket</thing>
+    <rotation>East</rotation>
+    <containPawnKindAnyOf>
+      <li>VFEV_VikingLegend</li>
+    </containPawnKindAnyOf>
+  </KCSG.SymbolDef>
+</Defs>

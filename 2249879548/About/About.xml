@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Vanilla Storytellers Expanded - Igor Invader</name>
+    <author>Oskar Potocki</author>
+    <url></url>
+	<supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>VSE.IgorInvader</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+	</loadAfter>
+<description>Vanilla Storytellers Expanded is a brand new mod series featuring standalone storytellers, bringing new, unique mechanics to the game.
+
+"Igor Invader holds no regard for boring stories about thriving colonies. The only story worth telling is the one of combat. He will send raids every two or three days, rewarding players for dealing with them swiftly, and punishing player for any losses. This storyteller doubles all weapon damage."
+
+Igor Invader comes with the following traits:
+
+Constant raids
+This storyteller puts emphasis on raids. Raids are guaranteed to occur every 2 to 3 days constantly, until the storyteller is changed. Raids still scale with colony wealth and time.
+
+Enemy reinforcements
+This storyteller will reward the player for dealing with enemy raids, but will also punish the player for any casualties. Losing a pawn will trigger a new raid called Reinforcements!, which equals to 1/4 of the normal raid size and belongs the the faction already raiding the player.
+
+Double damage
+This storyteller doubles all damage dealt by weapons - both melee and ranged. Game just became 2x more serious.</description>
+	<modDependencies>
+        <li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1854607105</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
