@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<AnimalBehaviours.GenericToggleableAnimalDef>
+		<defName>AEXP_ToggleableAnimalsTemperateTropSwamp</defName>
+		<toggleablePawns>			
+			<li>AEXP_Alligator</li>
+			<li>AEXP_Anaconda</li>
+			<li>AEXP_IndianElephant</li>
+		</toggleablePawns>							
+	</AnimalBehaviours.GenericToggleableAnimalDef>
+
+
+
+
+
+
+
+</Defs>

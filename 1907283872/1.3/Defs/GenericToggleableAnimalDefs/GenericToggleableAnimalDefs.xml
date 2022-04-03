@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<AnimalBehaviours.GenericToggleableAnimalDef>
+		<defName>AEXP_ToggleableAnimalsTemperateTropRainforest</defName>
+		<toggleablePawns>			
+			<li>AEXP_Gorilla</li>
+			<li>AEXP_Jaguar</li>
+			<li>AEXP_Lemur</li>
+			<li>AEXP_Mandrill</li>
+			<li>AEXP_Tapir</li>
+			<li>AEXP_Tiger</li>
+		</toggleablePawns>							
+	</AnimalBehaviours.GenericToggleableAnimalDef>
+
+
+
+
+
+
+
+</Defs>
