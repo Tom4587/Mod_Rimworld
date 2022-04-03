@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<AnimalBehaviours.GenericToggleableAnimalDef>
+		<defName>AEXP_ToggleableAnimalsExtremeDesert</defName>
+		<toggleablePawns>			
+			<li>AEXP_Camel</li>
+			<li>AEXP_Rattlesnake</li>
+			<li>AEXP_Megascorpion</li>
+		</toggleablePawns>							
+	</AnimalBehaviours.GenericToggleableAnimalDef>
+
+
+
+
+
+
+
+</Defs>
