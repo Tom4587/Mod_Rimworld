@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Animals Expanded — Desert</name>
+	<author>Oskar Potocki</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/AndroidQuazar/VanillaExpandedFramework</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	</loadAfter>
+	<packageId>VanillaExpanded.VAED</packageId>
+	<description>No animal mod, or in this instance, mod series, can be complete without Lions. This mod, albeit being smaller to not overpopulate the desolate deserts of the planet, contains some of the most popular and requested - and dangerous - animals that can most often be found in the desert. With this particular mod you can hear hyena’s laughter echo through the night, train your own pack of lions, tackle a desert tortoise and die due to venom injected by the feared gila monster.
+
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Desert biome expansion. It adds 4 new animals that will spawn in the Desert, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.
+</description>
+</ModMetaData>

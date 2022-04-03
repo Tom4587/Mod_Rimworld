@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<AnimalBehaviours.GenericToggleableAnimalDef>
+		<defName>AEXP_ToggleableAnimalsDesert</defName>
+		<toggleablePawns>			
+			<li>AEXP_Hyena</li>
+			<li>AEXP_DesertTortoise</li>
+			<li>AEXP_Lion</li>
+			<li>AEXP_GilaMonster</li>
+		</toggleablePawns>							
+	</AnimalBehaviours.GenericToggleableAnimalDef>
+
+
+
+
+
+
+
+</Defs>
