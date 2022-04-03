@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Vanilla Storytellers Expanded - Maynard Medieval</name>
+    <author>Oskar Potocki</author>
+    <url></url>
+	<supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>VSE.MaynardMedieval</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+	</loadAfter>
+<description>Vanilla Storytellers Expanded is a brand new mod series featuring standalone storytellers, bringing new, unique mechanics to the game.
+
+"Maynard Medieval creates a story of increasing curve of challenge and tension. He strongly believes in valor, honor and sacrifice, and will make sure you regain your strength before tackling a next big threat. Most factions and all research will be limited to the medieval and pre-medieval eras."
+
+Maynard Medieval comes with the following traits:
+
+Technology limited to Medieval
+Upon world generation, this storyteller will prevent factions past medieval from spawning.
+
+Scales with Wealth
+This storyteller scales with a colony wealth being a deciding factor - the higher the wealth, the more difficult raids and bad events will happen.
+
+Balanced Difficulty
+This storyteller has balanced difficulty. It will not favour good nor bad events, and any events that happen are tailored to your colony based on it’s wealth, past events, amount of colonists and other factors.</description>
+	<modDependencies>
+        <li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1854607105</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
