@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Weapons Expanded - Frontier</name>
+  <author>Oskar Potocki, Luizi, xrushha</author>
+  <supportedVersions>
+    <li>1.2</li>
+	<li>1.3</li>
+  </supportedVersions>
+  <packageId>VanillaExpanded.VWEFT</packageId>
+  <description>One of the most commonly requested features for Vanilla Factions Expanded - Settlers was tech-locking their weapons. Sadly, vanilla game does not differentiate between ‘western-style’ weapons like revolvers and M14 assault rifles - for the game, it’s all industrial weapons. If we were to white list only ‘western-style’ weapons, it wouldn’t offer enough variety - you’d constantly see raiders with revolvers, bolt action rifles and pump shotguns. That’s it. Boring isn’t it?
+
+Don’t worry fam, we got you. Hold our beer while we deliver a decent-sized weapon mod featuring vast amount of new western-style weapons with a new High roller mechanic, giving these guns a chance (10%) to deal double damage. This mod also includes a large number of conditional patches adding even more weapons - if you’re running Vanilla Weapons Expanded - Laser, you can expect some laser frontier weapons, with Heavy Weapons you can hold a gatling gun, with Coilguns you can have proper coilgun revolver and repeater, and with quickdraw you can wield a famous derringer!
+
+Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days. 
+</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+      <displayName>Vanilla Expanded Framework</displayName>
+      <downloadUrl>https://github.com/AndroidQuazar/VanillaExpandedFramework</downloadUrl>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2023507013</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>brrainz.harmony</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	<li>VanillaExpanded.VWEQ</li>
+	<li>VanillaExpanded.VWEL</li>
+	<li>VanillaExpanded.VWEHW</li>
+	<li>VanillaExpanded.VWEC</li>
+	<li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
+  </loadAfter>
+</ModMetaData>
