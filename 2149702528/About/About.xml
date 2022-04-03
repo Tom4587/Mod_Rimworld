@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Storytellers Expanded - Empress Evil</name>
+	<author>Oskar Potocki, Kikohi</author>
+	<supportedVersions><li>1.1</li><li>1.2</li><li>1.3</li></supportedVersions>
+	<packageId>VSE.EmpressEvil</packageId>
+	<description>Vanilla Storytellers Expanded is a brand new mod series featuring standalone storytellers, bringing new, unique mechanics to the game.
+
+“Empress Evil does not believe in the concept of good. Driven by primal rage and savage instinct, she will force you to constantly be on your toes, throwing harder and harder tasks until you give up and perish.
+
+No good events can happen, ever.”
+
+Empress Evil comes with the following traits:
+
+Only bad events
+This storyteller stops all straight-up good events from happening. The story will be riddled with failures, raids and misery. The only good events that are allowed to occur are those that can cause bad events to happen down the line - meteors, relationships, bonding with animals etc.
+
+Scales with wealth
+This storyteller scales with a colony wealth being a deciding factor - the higher the wealth, the more difficult raids and bad events will happen.
+
+Hard difficulty
+This storyteller has hard difficulty. It will favour bad events, and any events that happen are tailored to your colony based on it’s wealth, past events, amount of colonists and other factors.
+	</description>
+    <modDependencies></modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+</ModMetaData>
