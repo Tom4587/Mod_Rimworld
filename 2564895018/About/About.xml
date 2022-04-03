@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Ideology Expanded - Relics and Artifacts</name>
+	<author>Oskar Potocki, Sarg Bjornson, legodude17</author>
+	<supportedVersions><li>1.3</li></supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1854607105</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>Ludeon.RimWorld.Ideology</packageId>
+			<displayName>Ideology</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>brrainz.harmony</li>
+        <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		
+	</loadAfter>
+	<packageId>VanillaExpanded.Ideo.RelicsAndArtifacts</packageId>
+	<description>Vanilla Ideology Expanded is a mini-series of mods aimed at expanding the content in ideology - be it memes, relics and symbols or icons alike.
+
+Relics and Artifacts module introduces over 40 new inert relics to join the small selection of relics in vanilla game. No longer you will be bound to have a mysterious cube, or an ark, or  a shard. We’ve added scrolls, statuettes, idols, sword shards, gauntlets, mechanoid heads, tech parts and many, many more.
+
+Furthermore, this mod adds patches to apparel, allowing it to also be a relic, because I got tired of seeing all the possible guns as relics, but not helmets, armors etc.
+
+This of course increases the list of possible relics with hundreds of new items, so we have overhauled the relic selection UI, and added a search bar so it’s easier to find what you want!
+
+In case of any feedback or bug reports, please utilise the comment section of the mod on the Steam workshop.
+
+	</description>
+</ModMetaData>
