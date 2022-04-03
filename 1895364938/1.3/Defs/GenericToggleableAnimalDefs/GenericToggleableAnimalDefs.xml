@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<AnimalBehaviours.GenericToggleableAnimalDef>
+		<defName>AEXP_ToggleableAnimalsBoreal</defName>
+		<toggleablePawns>			
+			<li>AEXP_Otter</li>
+			<li>AEXP_ArcticCoyote</li>
+			<li>AEXP_BlackBear</li>
+		</toggleablePawns>							
+	</AnimalBehaviours.GenericToggleableAnimalDef>
+
+
+
+
+
+
+
+</Defs>

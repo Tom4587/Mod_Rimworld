@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<AnimalBehaviours.GenericToggleableAnimalDef>
+		<defName>AEXP_ToggleableAnimalsIceSheet</defName>
+		<toggleablePawns>			
+			<li>AEXP_Penguin</li>
+			<li>AEXP_Seal</li>
+			<li>AEXP_Walrus</li>
+		</toggleablePawns>							
+	</AnimalBehaviours.GenericToggleableAnimalDef>
+
+
+
+
+
+
+
+</Defs>

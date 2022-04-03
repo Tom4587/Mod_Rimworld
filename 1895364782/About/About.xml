@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Animals Expanded — Ice Sheet</name>
+	<author>Oskar Potocki, Sarg Bjornson</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/AndroidQuazar/VanillaExpandedFramework</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	</loadAfter>
+	<packageId>VanillaExpanded.VAEIS</packageId>
+	<description>What this mod series was certainly lacking is some Ice Sheet animals. Adding them was quite difficult as the biome itself hardly supports any plant life - and whilst I can feel free to add animals, they need to be able to sustain themselves. Additionally, I needed to make sure that the Sea Ice biome gets enough treatment to be unique, whilst still being extremely difficult to play in. With this mod you are able to fend off the flocks of penguins and hunt walruses for their precious tusks! Not only that, as penguins will periodically dig for fish, so if you’re particularly unlucky, you can scavenge their leftovers!
+
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Ice Sheet biome expansion. It adds 3 new animals that will spawn in the Ice Sheet, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.
+</description>
+</ModMetaData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<AnimalBehaviours.GenericToggleableAnimalDef>
+		<defName>AEXP_ToggleableAnimalsTundra</defName>
+		<toggleablePawns>			
+			<li>AEXP_Muskox</li>
+			<li>AEXP_Moose</li>
+			<li>AEXP_MegaWolverine</li>
+			<li>AEXP_Porcupine</li>
+		</toggleablePawns>							
+	</AnimalBehaviours.GenericToggleableAnimalDef>
+
+
+
+
+
+
+
+</Defs>
