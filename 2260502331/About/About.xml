@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Animals Expanded — Temperate Forest</name>
+	<author>Oskar Potocki, Sarg Bjornson</author>
+	
+	<packageId>VanillaExpanded.VAETF</packageId>
+	<supportedVersions>
+		
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/AndroidQuazar/VanillaExpandedFramework</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	</loadAfter>
+	<description>After all the other animal mods have been finished, it is time to introduce the one final animal mod to Vanilla Expanded mod series. Vanilla Animals Expanded - Temperate Forest mod adds a small number of animals to a very popular for beginners temperate forest biome. Whilst the biome is already very diverse animal wise, I feel like it was missing something that makes it unique. All of the vanilla animals that spawn in Temperate biome can also spawn almost everywhere else, so we, Vanilla Expanded Co. decided to add something truly unique - red pandas, wild geese, badgers, beavers that build wooden dams on the rivers, and of course - hedgehogs!
+
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Temperate Forest biome expansion. It adds 5 new animals that will spawn in the Temperate forest, but some of them also spawn in other biomes. They have vanilla artwork, sounds and balancing.
+</description>
+	
+</ModMetaData>

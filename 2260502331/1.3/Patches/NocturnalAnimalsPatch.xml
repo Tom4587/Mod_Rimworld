@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	
+	 <!-- Red Panda -->
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>/Defs/ThingDef[defName="AEXP_RedPanda"]</xpath>
+        <value>
+            <li Class="NocturnalAnimals.ExtendedRaceProperties">
+                <bodyClock>Nocturnal</bodyClock>
+            </li>
+        </value>
+    </Operation>
+	
+	 <!-- Badger -->
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>/Defs/ThingDef[defName="AEXP_Badger"]</xpath>
+        <value>
+            <li Class="NocturnalAnimals.ExtendedRaceProperties">
+                <bodyClock>Nocturnal</bodyClock>
+            </li>
+        </value>
+    </Operation>
+	
+	
+
+</Patch>

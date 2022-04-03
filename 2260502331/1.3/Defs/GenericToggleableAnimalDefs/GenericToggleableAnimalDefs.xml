@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<AnimalBehaviours.GenericToggleableAnimalDef>
+		<defName>AEXP_ToggleableAnimalsTemperateForest</defName>
+		<toggleablePawns>			
+			<li>AEXP_RedPanda</li>
+			<li>AEXP_Badger</li>
+			<li>AEXP_WildGoose</li>
+			<li>AEXP_Beaver</li>
+			<li>AEXP_Hedgehog</li>
+		</toggleablePawns>							
+	</AnimalBehaviours.GenericToggleableAnimalDef>
+
+
+
+
+
+
+
+</Defs>
